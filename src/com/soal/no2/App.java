@@ -1,3 +1,5 @@
+package com.soal.no2;
+
 import java.util.Scanner;
 
 public class App {

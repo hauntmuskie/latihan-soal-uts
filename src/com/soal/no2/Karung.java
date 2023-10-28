@@ -1,3 +1,5 @@
+package com.soal.no2;
+
 import java.text.DecimalFormat;
 import java.util.Scanner;
 

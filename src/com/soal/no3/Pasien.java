@@ -1,3 +1,5 @@
+package com.soal.no3;
+
 import java.util.Scanner;
 
 public class Pasien {

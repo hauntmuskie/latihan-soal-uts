@@ -1,6 +1,8 @@
+package com.soal.no3;
+
 import java.util.Scanner;
 
-class Main {
+class App {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
